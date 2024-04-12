@@ -5,38 +5,13 @@ sections:
   - type: form_section
     section_id: contact-form
     content: >-
-      Let’s build something great together.<br>
+      Are you tired of dealing with frustrating IT issues and inefficient technology solutions? Look no further! Julz Insight is here to help. Our team of highly skilled IT professionals is ready to provide the solutions and guidance you need to take your business to the next level. Don't waste any more time struggling with outdated or inadequate technology. Contact Julz Insight today and see how our expertise and personalized approach can benefit your company. Take the first step towards streamlined and effective IT solutions by reaching out to us now.
+    
+      Let’s build something impactful together.<br>
 
       Complete our contact form or send us an email at
-      [email@example.com](mailto:email@example.com).
+      [info@julzinsight.co](mailto:info@julzinsight.co).
 
-
-      ***
-
-
-      ## Our Offices
-
-
-      ### San Francisco
-
-      1234 Some St.<br>
-
-      San Francisco, CA 12345<br>
-
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
-
-
-      ### New York
-
-      1234 Some St.<br>
-
-      New York, NY 12345<br>
-
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -55,9 +30,12 @@ sections:
         label: What services are you looking for?
         default_value: Please select
         options:
-          - Branding
           - Design
-          - Digital
+          - Development
+          - Marketing
+          - IT Consultation
+          - As-a-service
+          - Other
       - input_type: textarea
         name: message
         label: Message
@@ -69,23 +47,23 @@ sections:
           can be contacted.
     submit_label: Send Message
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Contact - Julz Insight
+  description: Contact the Julz Insight team
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contact - Julz Insight
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Contact the Julz Insight team
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Contact - Julz Insight
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Contact the Julz Insight team
 layout: advanced
 ---
