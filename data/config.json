@@ -1,12 +1,12 @@
 {
-    "title": "Stackbit Agency Theme",
+    "title": "Julz Insight",
     "color_scheme": "light",
-    "accent_color": "green",
+    "accent_color": "violet",
     "base_font": "fraunces",
     "header": {
-        "title": "Agency",
+        "title": "Julz Insight",
         "logo": "images/logo.svg",
-        "logo_alt": "Agency logo",
+        "logo_alt": "Julz Insight Logo",
         "has_nav": true,
         "nav_links": [
             {
